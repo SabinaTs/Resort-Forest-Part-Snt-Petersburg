@@ -1,0 +1,15 @@
+D:\bin\student\s_ts\CurortPark\bin\Debug\CurortPark.exe.config
+D:\bin\student\s_ts\CurortPark\bin\Debug\CurortPark.exe
+D:\bin\student\s_ts\CurortPark\bin\Debug\CurortPark.pdb
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.csproj.AssemblyReference.cache
+D:\bin\student\s_ts\CurortPark\obj\Debug\MainWindow.g.cs
+D:\bin\student\s_ts\CurortPark\obj\Debug\App.g.cs
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark_MarkupCompile.cache
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark_MarkupCompile.lref
+D:\bin\student\s_ts\CurortPark\obj\Debug\MainWindow.baml
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.g.resources
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.Properties.Resources.resources
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.csproj.GenerateResource.cache
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.csproj.CoreCompileInputs.cache
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.exe
+D:\bin\student\s_ts\CurortPark\obj\Debug\CurortPark.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="CurortPark.PagesAndWindows.Administrator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CurortPark.PagesAndWindows"
+        mc:Ignorable="d"
+        Title="Administrator" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="report" Margin="246,22,246,347" Height="50" Width="300" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="14" Content="Отчёты" Click="ReportBtn"/>
+        <Button x:Name="exit" Margin="0,344,0,0" Height="50" Width="300" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="14" Content="Выход" Click="ExitBtn"/>
+        <Button x:Name="managers" Margin="0,262,0,90" Height="50" Width="300" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="14" Content="Сотрудники" Click="ManagerEditBtn"/>
+        <Button x:Name="data" Margin="0,178,0,175" Height="50" Width="300" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="14" Content="Данные о расходных материалах" Click="DataBtn"/>
+        <Button x:Name="hist" Margin="0,90,0,258" Height="50" Width="300" FontFamily="Comic Sans MS" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="14" Content="История входа" Click="HistoryBtn"/>
+    </Grid>
+</Window>
